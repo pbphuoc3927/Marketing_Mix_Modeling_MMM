@@ -1,0 +1,19 @@
+📊 MARKETING MIX MODELING INSIGHTS
+========================================
+
+📈 Top Performing Channel:
+- search_spend has the highest ROI (0.0659).
+
+🔻 Underperforming Channel:
+- tv_spend has the lowest ROI (0.0244).
+
+📊 Proposed Budget Allocation:
+- search_spend: Proposed Budget = $3.31 (ROI: 0.0659)
+- facebook_spend: Proposed Budget = $1.98 (ROI: 0.0393)
+- other_spend: Proposed Budget = $1.78 (ROI: 0.0353)
+- tv_spend: Proposed Budget = $1.22 (ROI: 0.0244)
+
+💡 Strategic Recommendations:
+- Increase budget for high-ROI channels (e.g., search_spend) to maximize returns.
+- Consider reducing spend on low-ROI channel (e.g., tv_spend).
+- Reevaluate ROI quarterly to adapt to market dynamics.

@@ -15,6 +15,3 @@ ENV/
 # System files
 .DS_Store
 Thumbs.db
-
-# Output artifacts
-outputs/
